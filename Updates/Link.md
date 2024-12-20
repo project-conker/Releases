@@ -1,0 +1,1 @@
+Launcher, 0.0.0, https://github.com/project-conker/Releases/releases/download/v0.0.0/Launcher.zip
